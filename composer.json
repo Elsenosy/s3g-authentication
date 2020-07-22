@@ -1,0 +1,14 @@
+{
+    "name": "elsenosy/s3g-authentication",
+    "description": "A custom authentication package for S3Geeks Archiving system",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taha Elsenosy",
+            "email": "tahaelsenosy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
